@@ -1,9 +1,9 @@
 {
   "expo": {
-    "name": "SecondProject",
-    "slug": "SecondProject",
+    "name": "Little Lemon Bistro",
+    "slug": "Little Lemon Bistro",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
